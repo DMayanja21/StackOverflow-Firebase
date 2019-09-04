@@ -1,0 +1,35 @@
+header {
+	color:#FDFEFE;
+	background-color: #00008B;	
+}
+#input{
+	text-align: center;
+	background-color: #7cfc00;
+}
+#feedback{
+	text-align: left;
+	background-color: #ff8c00;
+}
+#login{
+	text-align: right;
+	float: right;
+	background-color: #9932cc;
+}
+#details {
+	background-color: #EAF2F8;
+	text-align: center;	
+}
+#companyName {
+	height: 100px;
+	font-size: 18;
+	text-align: center;
+}
+#user{
+	text-align: center;
+}
+footer{
+	text-align: center;
+	color: #FDFEFE;
+	background-color: #3498DB;
+	clear: both;
+}
