@@ -1,30 +1,43 @@
-header {
+.header {
 	color:#FDFEFE;
 	background-color: #00008B;	
 }
-#input{
+h1{
 	text-align: center;
-	background-color: #7cfc00;
+	color: white;
+	font-size: 50px;
+	font-family: "Times New Roman", serif;
 }
-#feedback{
-	text-align: left;
-	background-color: #ff8c00;
+body {
+	min-height: 100vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
 }
-#login{
-	text-align: right;
-	float: right;
-	background-color: #9932cc;
+#home{
+	background-image: url("../images/flash.jpg");
 }
-#details {
-	background-color: #EAF2F8;
-	text-align: center;	
-}
-#companyName {
-	height: 100px;
-	font-size: 18;
-	text-align: center;
+#register{
+	background-image: url("../images/join.jpg");
 }
 #user{
+	background-image: url("../images/community.jpg");
+}
+.info{
+	float: left;
+	padding: 5%;
+}
+#company{
+	
+	width: 50%;
+	text-align: center;
+}
+#join{
+	width:50%;
+	text-align: center;
+}
+#container{
 	text-align: center;
 }
 footer{
@@ -32,4 +45,5 @@ footer{
 	color: #FDFEFE;
 	background-color: #3498DB;
 	clear: both;
+	position: bottom;
 }
