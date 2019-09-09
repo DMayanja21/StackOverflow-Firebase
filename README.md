@@ -1,4 +1,4 @@
-#StackOverflow-EDU
+# StackOverflow-EDU
 This project was aimed at developing a site with the following features:
 1. Users can create an account and log in.
 2. Users can post questions.
